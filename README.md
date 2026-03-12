@@ -1,4 +1,4 @@
-# 📦 Inventory Fundamentals – M1S1
+# Inventory Fundamentals – M1S1
 
 ## 📖 User Story M1S1
 **Fundamentals and Basic Inventory Operations**
@@ -7,7 +7,7 @@ This project is a simple Python program that allows users to register a product 
 
 ---
 
-# 🎯 Objective
+# Objective
 
 The goal of this project is to:
 
@@ -22,7 +22,7 @@ The goal of this project is to:
 
 ---
 
-# 🧩 Tasks
+# Tasks
 
 ## TASK 1 — Flowchart
 
