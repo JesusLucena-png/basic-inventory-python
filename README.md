@@ -1,6 +1,6 @@
 # Inventory Fundamentals – M1S1
 
-## 📖 User Story M1S1
+## User Story M1S1
 **Fundamentals and Basic Inventory Operations**
 
 This project is a simple Python program that allows users to register a product in an inventory system and calculate its total cost. The objective is to practice fundamental programming concepts such as user input, variables, mathematical operations, error handling, and console output.
